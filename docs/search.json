@@ -9,8 +9,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "abiromero8.github.io",
+    "title": "Abimael Romero",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "title: “Abimael Romero” image: media/headshot.jpeg toc: false about: template: jolla image-shape: round image-width: 17em links: - text: LinkedIn href: https://www.linkedin.com/in/abimael-romero-32226a23a/ - text: GitHub href: https://github.com/abiromero8 - text: Email href: abiromero8@gmail.com — hi sisters!"
   }
 ]
