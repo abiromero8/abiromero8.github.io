@@ -12,6 +12,6 @@ about:
     - text: GitHub
       href: https://github.com/abiromero8
     - text: Email
-      href: abiromero8@gmail.com
+      href: mailto:abiromero8@gmail.com
 ---
 hi sisters! welcome to the show
