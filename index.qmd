@@ -1,11 +1,10 @@
 ---
----
 title: "Abimael Romero"
 image: media/headshot.jpeg
 toc: false
 about: 
   template: jolla
-  image-shape: round
+  image-shape: rectangle
   image-width: 17em
   links:
     - text: LinkedIn
